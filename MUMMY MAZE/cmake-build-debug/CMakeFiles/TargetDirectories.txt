@@ -1,0 +1,3 @@
+/Users/trangiabao/CLionProjects/MUMMY MAZE/cmake-build-debug/CMakeFiles/MUMMY_MAZE.dir
+/Users/trangiabao/CLionProjects/MUMMY MAZE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trangiabao/CLionProjects/MUMMY MAZE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
